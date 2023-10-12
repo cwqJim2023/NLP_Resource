@@ -8,3 +8,6 @@ https://github.com/fighting41love/funNLP
 ***
 ABSA 细粒度标签提取
 https://github.com/search?q=ABSA&type=repositories&p=1
+***
+中文数据集
+https://github.com/SophonPlus/ChineseNlpCorpus
